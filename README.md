@@ -33,11 +33,7 @@ Generating Adobe Font Metrics for $laravel_install_directory /vendor/dompdf/domp
 ```
 
 ## Package
-```
 https://packagist.org/packages/barryvdh/laravel-dompdf
-```
 
 ## Reference
-```
 https://reffect.co.jp/laravel/laravel-dompdf70-japanese
-```
