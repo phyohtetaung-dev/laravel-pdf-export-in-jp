@@ -1,4 +1,7 @@
 # Export PDF in JP Language
+## Sample
+![image](https://user-images.githubusercontent.com/42564050/153977123-b2e9511c-e2c7-4fc5-a0e6-ccf9e76278d0.png)
+
 ## Installation
 ```
 composer require barryvdh/laravel-dompdf
