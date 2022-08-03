@@ -4,7 +4,8 @@
 
 ## Installation
 ```
-composer require barryvdh/laravel-dompdf
+composer install
+npm install && npm run dev
 ```
 
 ## Config
